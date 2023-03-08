@@ -12,6 +12,7 @@
 - [타이타닉 AI 모델 코드 리뷰2](https://github.com/gloriamok/titanic-ml-code-review-2)
 - [농업 환경 변화에 따른 작물 병해 진단 AI 경진대회 코드 리뷰](https://github.com/gloriamok/crop-disease-diagnosis-ml-code-review)
 - [전복 나이 예측 경진대회 코드 리뷰](https://github.com/gloriamok/abalone-age-prediction-ml-code-review)
+- [영화 추천 시스템 코드 리뷰](https://github.com/gloriamok/movie-recommendation-system-ml-code-review)
 
 🌱 BOJ
 - [백준 온라인 저지 풀이 코드 (C++)](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp)
