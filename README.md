@@ -1,6 +1,6 @@
 
 👀 Projects
-- [2022.06-07 팀프로젝트 - 스프링 부트로 너도해 서비스 백엔드 개발](https://github.com/gloriamok/neodohae_spring_boot)
+- [2023.06-07 팀프로젝트 - 스프링 부트로 너도해 서비스 백엔드 개발](https://github.com/gloriamok/neodohae_spring_boot)
 - [2022.07-11 졸업작품 - 쿠버네티스 클러스터 환경에서의 얼굴인식 기반 출입관리 시스템 개발](https://github.com/gloriamok/gradproject)
 - [2022.06. 스프링 프레임워크를 사용한 쇼핑몰 사이트 구현](https://github.com/gloriamok/shopping-mall-system)
 - [2022.04. 스프링 프레임워크를 사용한 회원관리 기능 설계 및 구현](https://github.com/gloriamok/user-management-system)
