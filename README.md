@@ -5,9 +5,15 @@
 - [2022.06. 스프링 프레임워크를 사용한 쇼핑몰 사이트 구현](https://github.com/gloriamok/shopping-mall-system)
 - [2022.04. 스프링 프레임워크를 사용한 회원관리 기능 설계 및 구현](https://github.com/gloriamok/user-management-system)
 
-🌱 BOJ
+🌱 PS
 - [백준 온라인 저지 풀이 코드 (C++)](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp)
+- [프로그래머스 SQL 고득점 Kit 풀이 코드 (MySQL)](https://github.com/gloriamok/programmers-coding-test-solution-mysql)
+- [구름톤 챌린지 풀이 코드 (C++)](https://github.com/gloriamok/9oormthon-challenge)
 
+📚 CS Study
+- [2023_CS_PS_Study](https://github.com/gloriamok/2023_CS_PS_Study)
+
+<!---
 📚 Machine Learning Study
 - [2021.10.27. 따릉이 AI 모델 코드 리뷰1](https://github.com/gloriamok/seoul-bike-ml-code-review-1)
 - [2021.11.03. 따릉이 AI 모델 코드 리뷰2](https://github.com/gloriamok/seoul-bike-ml-code-review-2)
@@ -20,16 +26,13 @@
 - [딥러닝을 위한 파이토치 입문 - 텐서](https://github.com/gloriamok/deep-learning-pytorch-study)
 
 
-<!---
 - 👋 Hi, I’m @gloriamok
 - 😉 My MBTI is ISTJ
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python, C++, Java, Linux, and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
---->
 
-<!---
 gloriamok/gloriamok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
