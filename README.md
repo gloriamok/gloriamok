@@ -10,10 +10,10 @@
 - [프로그래머스 SQL 고득점 Kit 풀이 코드 (MySQL)](https://github.com/gloriamok/programmers-coding-test-solution-mysql)
 - [구름톤 챌린지 풀이 코드 (C++)](https://github.com/gloriamok/9oormthon-challenge)
 
+<!---
 📚 CS Study
 - [2023_CS_PS_Study](https://github.com/gloriamok/2023_CS_PS_Study)
 
-<!---
 📚 Machine Learning Study
 - [2021.10.27. 따릉이 AI 모델 코드 리뷰1](https://github.com/gloriamok/seoul-bike-ml-code-review-1)
 - [2021.11.03. 따릉이 AI 모델 코드 리뷰2](https://github.com/gloriamok/seoul-bike-ml-code-review-2)
