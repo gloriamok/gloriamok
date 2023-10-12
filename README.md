@@ -6,7 +6,7 @@
 - [2022.04. 스프링 프레임워크를 사용한 회원관리 기능 설계 및 구현](https://github.com/gloriamok/user-management-system)
 
 🌱 PS
-- [백준 온라인 저지 풀이 코드 (C++)](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp)
+- [백준 및 코드트리 풀이 코드 (C++)](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp)
 - [프로그래머스 SQL 고득점 Kit 풀이 코드 (MySQL)](https://github.com/gloriamok/programmers-coding-test-solution-mysql)
 - [구름톤 챌린지 풀이 코드 (C++)](https://github.com/gloriamok/9oormthon-challenge)
 
